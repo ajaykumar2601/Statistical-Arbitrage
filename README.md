@@ -1,4 +1,4 @@
-# Statistical-Arbitrage
+# Fx Statistical-Arbitrage
 Implementation of Deep Learning Statistical Arbitrage in Fx
 
 Main Paper: https://arxiv.org/abs/2106.04028
